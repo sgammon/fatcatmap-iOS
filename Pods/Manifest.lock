@@ -1,0 +1,40 @@
+PODS:
+  - AFNetworking (2.2.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.2.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.2.3):
+    - AFNetworking/NSURLConnection
+  - AFNetworking/Reachability (2.2.3)
+  - AFNetworking/Security (2.2.3)
+  - AFNetworking/Serialization (2.2.3)
+  - AFNetworking/UIKit (2.2.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - CocoaSPDY (1.0.1)
+  - iOS-WebP (0.3)
+  - MessagePack (1.0.0)
+  - SocketRocket (0.3.1-beta2)
+
+DEPENDENCIES:
+  - AFNetworking (= 2.2.3)
+  - CocoaSPDY (= 1.0.1)
+  - iOS-WebP (= 0.3)
+  - MessagePack (= 1.0.0)
+  - SocketRocket (= 0.3.1-beta2)
+
+SPEC CHECKSUMS:
+  AFNetworking: ae513199cca79e9d7af2708ccabe2ed075550c42
+  CocoaSPDY: e8e33f0301553337e34c7bde5984f3e22b9e0ca2
+  iOS-WebP: 356820dc7c8dbc42aae156715d7c709de1fec072
+  MessagePack: f54bf02dd4bc0dbd4ad84134a805a3e4d466c88f
+  SocketRocket: 7ac946bcce46287a791dfff3c1f8daa692821dae
+
+COCOAPODS: 0.32.1

@@ -1,0 +1,6 @@
+platform :ios, '7.1'
+pod 'AFNetworking', '2.2.3'
+pod 'MessagePack', '1.0.0'
+pod 'iOS-WebP', '0.3'
+pod 'CocoaSPDY', '1.0.1'
+pod 'SocketRocket', '0.3.1-beta2'
